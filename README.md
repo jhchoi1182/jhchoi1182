@@ -24,8 +24,8 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Recoil-31A8FF?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/SWR-FFFFFF?style=flat&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-31A8FF?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
 </div>
 
@@ -36,6 +36,8 @@
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Sanity-FF6550?style=flat&logo=&logoColor=white"/>
 </div>
+
+<br />
 
 <div align="center">
   <p>🚧 Test 🚧</p>
