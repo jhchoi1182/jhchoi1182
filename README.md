@@ -1,8 +1,10 @@
 
 <div align="center">
-	✨ Tech Stack ✨
+  <b><font size="6">✨ Tech Stack ✨</font></b>
 </div>
-<hr />
+
+<br />
+
 <div align="center">
   <p>🛠 Development Tech 🛠</p>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -40,5 +42,3 @@
 	<img src="https://img.shields.io/badge/RTL-E9113B?style=flat&logo=RTL&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
 </div>
-
-<hr />
