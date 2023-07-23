@@ -19,11 +19,14 @@
   <p>🎨 FrontEnd 🎨</p>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
+	<br />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+	<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
+ <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+  
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/SWR-FFFFFF?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-31A8FF?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
@@ -32,9 +35,10 @@
 <br />
 
 <div align="center">
-  <p>📚 Database 📚</p>
+  <p>📚 Data 📚</p>
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Sanity-FF6550?style=flat&logo=&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/>
 </div>
 
 <br />
