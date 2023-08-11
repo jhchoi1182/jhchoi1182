@@ -26,7 +26,6 @@
   
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/SWR-FFFFFF?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-31A8FF?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
@@ -38,7 +37,6 @@
   <p>📚 Data 📚</p>
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Sanity-FF6550?style=flat&logo=&logoColor=white"/>
-	<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white"/>
 </div>
 
 <br />
