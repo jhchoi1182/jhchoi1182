@@ -9,8 +9,11 @@
   <p>🛠 Development Tech 🛠</p>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<br />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+	<br />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 </div>
 
 <br />
@@ -29,6 +32,13 @@
   <img src="https://img.shields.io/badge/SWR-FFFFFF?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-31A8FF?style=flat&logo=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
+</div>
+
+<br />
+
+<div align="center">
+  <p>💻 BackEnd 💻</p>
+	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
 </div>
 
 <br />
