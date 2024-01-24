@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 	<br />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+	<br />
+	<img src="https://img.shields.io/badge/Java-FF7800?style=flat&logo=Java&logoColor=white"/>
 </div>
 
 <br />
@@ -39,6 +41,11 @@
 <div align="center">
   <p>💻 BackEnd 💻</p>
 	<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+	<br />
+	<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=&logoColor=white"/>
+	
 </div>
 
 <br />
@@ -46,7 +53,21 @@
 <div align="center">
   <p>📚 Data 📚</p>
 	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Sanity-FF6550?style=flat&logo=&logoColor=white"/>
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+</div>
+<br />
+
+<div align="center">
+  <p>🚀 Deployment 🚀</p>
+	<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
+	<br />
+	<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+	<img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat&logo=awsamplify&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=githubpages&logoColor=white"/>
+	<br />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+	
 </div>
 
 <br />
