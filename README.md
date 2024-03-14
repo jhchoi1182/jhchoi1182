@@ -80,4 +80,5 @@
   <p>🚧 Test 🚧</p>
 	<img src="https://img.shields.io/badge/RTL-E9113B?style=flat&logo=RTL&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
+	<img src="https://img.shields.io/badge/junit5-25A162?style=flat&logo=junit5&logoColor=white"/>
 </div>
